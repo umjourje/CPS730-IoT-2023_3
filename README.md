@@ -9,6 +9,8 @@ Implementação de exemplo para comunicação LoRawan e leitura de sensor de umi
 
 [Slides](https://drive.google.com/file/d/1FcQRWL2POp7D07NdcmNv92Oyw_rMkTbD/view?usp=sharing)
 
+### Protótipo do Dashboard
+[Figma](https://www.figma.com/proto/5g0BFxLnnpU20rcbBFE0Us/Dash-IoT?page-id=0%3A1&type=design&node-id=1-2&viewport=602%2C408%2C0.79&t=qTsNh5WdSJeKDkFT-1&scaling=min-zoom&mode=design)
 
 ---
 
