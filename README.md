@@ -2,7 +2,7 @@
 Implementação de exemplo para comunicação LoRawan e leitura de sensor de umidade.
 
 ### Relatório Final
-[Link para o PDF no Drive](https://drive.google.com/file/d/1b2mPPWHuvegEHZsGgOw9LHcubBBMmbw-/view?usp=drive_link)
+[Link para o PDF no Drive](https://drive.google.com/file/d/11yVR6GYAwVQfDLrlKrTRn89-W_U5h2gP/view?usp=sharing)
 
 ### Apresentação - Vídeo e Slides
 [Vídeo apresentando](https://drive.google.com/file/d/1xle-EZW6cbmSE0LirrrJ--ES2WUtmmzu/view?usp=sharing)
