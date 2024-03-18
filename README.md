@@ -11,4 +11,4 @@ Implementação de exemplo para comunicação LoRawan e leitura de sensor de umi
 
 > Print da simulaão do Wokwi com placa STM32 e sensor DHT22
 
-![Alt Text]()
+![Alt Text](./wokwi_stm32_dht22.png)
